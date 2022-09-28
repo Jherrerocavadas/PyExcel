@@ -1,0 +1,2 @@
+Arquivo só pra permitir enviar a pasta para o GitHub
+Substituir o nome da pasta pelo nome correspondente a esse usuário no arquivo "config_user_provisório.py"

@@ -1,0 +1,2 @@
+OBS: Os arquivos são antigos e não passaram por uma revisão aprofundada para
+serem enviados, de modo que o código pode não estar tão eficiente.
